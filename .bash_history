@@ -22,3 +22,12 @@ cd permissions
 vim 3-new_owner
 chmod u+x 3-new_owner
 cd ~
+git add .
+git commit -m "Solucion Tarea 3 y setup de directorios."
+git push -u origin master
+git push -u origin master --force
+cd permissions
+vim 3-new_owner
+cd permissions
+chmod u+x 3-new_owner
+cd ~

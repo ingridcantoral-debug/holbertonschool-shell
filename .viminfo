@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1761193536,,"wq"
+|2,0,1761193952,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -26,23 +26,35 @@
 
 # File marks:
 '0  2  21  ~/permissions/3-new_owner
-|4,48,2,21,1761193536,"~/permissions/3-new_owner"
-'1  1  14  ~/README.md
-|4,49,1,14,1761193475,"~/README.md"
-'2  2  21  ~/permissions/3-new_owner
-|4,50,2,21,1761193220,"~/permissions/3-new_owner"
+|4,48,2,21,1761193952,"~/permissions/3-new_owner"
+'1  2  21  ~/permissions/3-new_owner
+|4,49,2,21,1761193536,"~/permissions/3-new_owner"
+'2  1  14  ~/README.md
+|4,50,1,14,1761193475,"~/README.md"
+'3  2  21  ~/permissions/3-new_owner
+|4,51,2,21,1761193220,"~/permissions/3-new_owner"
+'4  2  21  ~/permissions/3-new_owner
+|4,52,2,21,1761193220,"~/permissions/3-new_owner"
 
 # Jumplist (newest first):
+-'  2  21  ~/permissions/3-new_owner
+|4,39,2,21,1761193952,"~/permissions/3-new_owner"
 -'  2  21  ~/permissions/3-new_owner
 |4,39,2,21,1761193536,"~/permissions/3-new_owner"
 -'  1  14  ~/README.md
 |4,39,1,14,1761193475,"~/README.md"
 -'  1  14  ~/README.md
 |4,39,1,14,1761193475,"~/README.md"
+-'  1  14  ~/README.md
+|4,39,1,14,1761193475,"~/README.md"
+-'  1  14  ~/README.md
+|4,39,1,14,1761193475,"~/README.md"
 -'  2  21  ~/permissions/3-new_owner
 |4,39,2,21,1761193220,"~/permissions/3-new_owner"
 -'  2  21  ~/permissions/3-new_owner
 |4,39,2,21,1761193220,"~/permissions/3-new_owner"
+-'  1  0  ~/permissions/3-new_owner
+|4,39,1,0,1761193204,"~/permissions/3-new_owner"
 -'  1  0  ~/permissions/3-new_owner
 |4,39,1,0,1761193204,"~/permissions/3-new_owner"
 -'  1  0  ~/permissions/3-new_owner
@@ -53,9 +65,9 @@
 # History of marks within files (newest to oldest):
 
 > ~/permissions/3-new_owner
-	*	1761193530	0
+	*	1761193947	0
 	"	2	21
-	^	2	21
+	^	2	22
 	.	2	21
 	+	2	21
 
